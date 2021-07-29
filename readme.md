@@ -1,7 +1,5 @@
 # A full page wireframe
 
-[https://mari-mizutani.github.io/wireframe-exercise/](https://mari-mizutani.github.io/wireframe-exercise/)
-
 ## The Mission
 
 A client needs a new website for her services. The designer you are collaborating with sent you a wireframe\*. Your task is to turn this wireframe into an interactive HTML page so that the client can get a good idea if she likes the current structure or not.
@@ -18,14 +16,24 @@ Make sure that on tablet and on mobile the layout still works (for example, colu
 
 _Please note: the look and feel of the page will obviously be different. It will match the standard style of the framework of your choice. That's OK!_
 
-### Extra time?
 
-If you used a _component-first_ framework, do the same exercise but with a _utility-first_ framework. And viceversa.
 
 ## Wireframe
 
-![Layout](./exercise-wireframe.png)
+[Layout](https://github.com/mari-mizutani/wireframe-exercise/blob/master/exercise-wireframe.png)
 
-## Good luck!
 
-![](https://media.giphy.com/media/629GlaFwxaOdUajE9g/giphy.gif)
+## Description
+
+Eventually I added a few of own css code for background image, fonts and colors.
+I mostly made this with Bootstrap, and it took 1 day. (Fixed small things later.)
+Yet following wireframe and coding wasn't really my first time, it was still difficult sometimes. But I'm proud of myself that I achieved my goal in 1 day this time, because it was much quicker than the time when I started Becode web developer course.
+
+## Project status
+It might be better to make some images align middle for smartphone layout, but I'll keep it current layout for now, since I think it is not a big problem.
+
+[https://mari-mizutani.github.io/wireframe-exercise/](https://mari-mizutani.github.io/wireframe-exercise/)
+
+
+
+
